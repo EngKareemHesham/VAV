@@ -1,0 +1,15 @@
+{
+"companyName": "ORIGIN",
+"productName": "WebXR",
+"productVersion": "1",
+"dataUrl": "VAV.data.unityweb",
+"wasmCodeUrl": "VAV.wasm.code.unityweb",
+"wasmFrameworkUrl": "VAV.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#525252",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.1f1"
+}
